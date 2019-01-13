@@ -3,7 +3,7 @@
 Android 애플리케이션: "화장실 어디야?"의 공개 가능한 소스들을 이용한 오픈 소스 트랙입니다.
 
 <li> <a href="https://arintvconlabs.github.io/whereistoilet/witindex.html">화장실 어디야 공식 홈페이지</a>
-<li> <a href="#"><del>구글 플레이 다운로드 페이지<del></a>
+<li> <a href="https://play.google.com/store/apps/details?id=io.teamcoderangers.whereistoliet"><del>구글 플레이 다운로드 페이지<del></a>
 
 <hr>
 2018 (C) 코드레인저 / 2019 (C) ARINTV Contents Creation Labs.
