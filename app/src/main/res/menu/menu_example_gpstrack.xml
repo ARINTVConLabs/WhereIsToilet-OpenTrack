@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/GPSTrack_Off"
+        android:title="@string/example_gpstrack_off" />
+    <item
+        android:id="@+id/GPSTrack_OnWithoutHead"
+        android:title="@string/example_gpstrack_onWoutHead" />
+    <item
+        android:id="@+id/GPSTrack_OnHead"
+        android:title="@string/example_gpstrack_onHead" />
+</menu>

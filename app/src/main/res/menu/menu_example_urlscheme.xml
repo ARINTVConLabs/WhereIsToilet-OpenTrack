@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/URLScheme_KakaoOpen"
+        android:title="@string/example_scheme_kakaoOpen">
+        <menu>
+            <item
+                android:id="@+id/URLScheme_OpenMaps"
+                android:title="@string/example_scheme_kakaoOpen_OpenApp" />
+            <item
+                android:id="@+id/URlScheme_PlaceSearch"
+                android:title="@string/example_scheme_kakaoOpen_PlaceSearch" />
+            <item
+                android:id="@+id/URLScheme_RouteSearch"
+                android:title="@string/example_scheme_kakaoOpen_RouteSearch" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/URLScheme_WGSMove"
+        android:title="@string/example_scheme_location_WGS" />
+    <item
+        android:id="@+id/URLScheme_KeywordSearch"
+        android:title="@string/example_scheme_search" />
+    <item
+        android:id="@+id/URLScheme_FindRoute"
+        android:title="@string/example_scheme_findRoute">
+        <menu>
+            <item
+                android:id="@+id/URLScheme_Route_CAR"
+                android:title="@string/example_scheme_findRoute_CAR" />
+            <item
+                android:id="@+id/URLScheme_Route_PUBLICTRANSIT"
+                android:title="@string/example_scheme_findRoute_PUBLICTRANSIT" />
+            <item
+                android:id="@+id/URLScheme_Route_FOOT"
+                android:title="@string/example_scheme_findRoute_FOOT" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/URLScheme_RoadView"
+        android:title="@string/example_scheme_roadView" />
+    <item
+        android:id="@+id/URLScheme_AndroidURI"
+        android:title="@string/example_scheme_AndroidGeo" >
+        <menu>
+            <item
+                android:id="@+id/URLScheme_Android_WGS"
+                android:title="@string/example_scheme_location_WGS" />
+            <item
+                android:id="@+id/URLScheme_Android_Place"
+                android:title="@string/example_scheme_AndroidGeo_Place" />
+        </menu>
+    </item>
+</menu>

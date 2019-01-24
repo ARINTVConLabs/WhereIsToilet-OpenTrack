@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">화장실 어디야? 오픈 트랙</string>
+
+    <!-- 공통 적용 키워드 -->
+    <string name="accept">확인</string>
+    <string name="cancel">취소</string>
+    <string name="confirm">수락</string>
+    <string name="decline">거부</string>
+    <string name="menu_info">오른쪽 메뉴를 눌러서 확인하세요</string>
+    <string name="error">오류 발생</string>
+
+    <!-- 로딩 스크린 -->
+    <string name="app_start_string">오픈 트랙 실행</string>
+
+    <!-- 메뉴 선택 스크린 -->
+    <string name="app_menu_item_title">확인할 예제를 선택하세요</string>
+    <string name="app_recycler_title">아이템: 제목</string>
+    <string name="app_recycler_subtitle">아이템: 보조제목</string>
+
+    <!-- 예제: Example GPSTrack -->
+    <string name="example_gpstrack_off">위치 트랙킹 종료</string>
+    <string name="example_gpstrack_onWoutHead">위치 트랙킹 시작: 나침반 모드 Off</string>
+    <string name="example_gpstrack_onHead">위치 트랙킹 시작: 나침반 모드 On</string>
+
+    <!-- 예제: Example MapLevel -->
+    <string name="example_maplevel_ZoomlevelControl">줌 레벨 다이얼로그</string>
+    <string name="example_maplevel_WGSLocationPoint">WGS84 위/경도 다이얼로그</string>
+    <string name="example_maplevel_ZoomlevelAndWGS">위/경도, 줌레벨 다이얼로그</string>
+    <string name="example_maplevel_latitude">위도</string>
+    <string name="example_maplevel_longitude">경도</string>
+    <string name="example_maplevel_zoomlevel">줌 레벨</string>
+    <string name="maplevel_dialog_ZoomlevelWGSTitle">위/경도, 줌 레벨 설정하기</string>
+    <string name="maplevel_dialog_UnAccessable2">위치 좌표/줌 레벨이 범위를 초과합니다</string>
+    <string name="maplevel_dialog_ZoomlevelTitle">줌 레벨 설정하기</string>
+    <string name="maplevel_dialog_WgsLcatTitle">위치 좌표 설정하기</string>
+    <string name="maplevel_dialog_UnAccessable">위치 좌표가 대한민국 좌표를 초과합니다</string>
+
+    <!-- 예제: Example LocationManager -->
+    <string name="example_location_Title">LocationManager의 위/경도 구하기</string>
+    <string name="example_location_Message">LocationManager에서 받은 위치 정보</string>
+    <string name="example_location_GetData_On">위치 받기 시작</string>
+    <string name="example_location_GetData_Off">위치 받기 중지</string>
+
+    <!-- 예제: Example URLScheme -->
+    <string name="example_scheme_Title">목적지의 좌표 설정</string>
+    <string name="example_scheme_kakaoOpen">지도 앱 열기</string>
+    <string name="example_scheme_kakaoOpen_OpenApp">카카오맵 열기</string>
+    <string name="example_scheme_kakaoOpen_PlaceSearch">지역검색 열기</string>
+    <string name="example_scheme_kakaoOpen_RouteSearch">경로검색 열기</string>
+    <string name="example_scheme_location_WGS">특정 좌표로 이동</string>
+    <string name="example_scheme_search">특정 지역 키워드 검색</string>
+    <string name="example_scheme_findRoute">길 찾기</string>
+    <string name="example_scheme_findRoute_CAR">자동차</string>
+    <string name="example_scheme_findRoute_PUBLICTRANSIT">대중교통</string>
+    <string name="example_scheme_findRoute_FOOT">도보</string>
+    <string name="example_scheme_roadView">로드뷰 표시</string>
+    <string name="example_scheme_AndroidGeo">Android: URL 스키마</string>
+    <string name="example_scheme_AndroidGeo_Place">장소 검색</string>
+    <string name="example_scheme_NotFound">Google Play의 카카오맵 설치 페이지로 이동합니다.</string>
+
+    <!-- 애플리케이션 저작권 보유자 -->
+    <string name="app_copyright_holder">2019 ⓒ ARINTV Contents Creation Labs</string>
+    <string name="app_copyright_seconder">2018 ⓒ Team Code Rangers</string>
+    <string name="opensource_license">오픈소스 라이선스 / 참고</string>
+
+    <!-- 종료 다이얼로그 구현 -->
+    <string name="exitdialog_title">애플리케이션을 종료합니다.</string>
+    <string name="exitdialog_message">종료하시겠습니까?</string>
+
+    <!-- ExtraResources -->
+    <string name="extra_resources_GP_Link_title">Google Play의 앱 설명으로 이동합니다</string>
+
+    <!-- 키 해시 다이얼로그 -->
+    <string name="keyhasidialog_title">컴퓨터 KeyHash값</string>
+</resources>
